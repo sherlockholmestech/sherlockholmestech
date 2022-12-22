@@ -3,8 +3,12 @@ Be prepared for profile spam!
 
 
 ## Toolkit
-![](https://img.shields.io/badge/Operating%20System-Linux-orange?style=for-the-badge&logo=linux)
-![](https://img.shields.io/badge/Operating%20System-Linux-orange?style=for-the-badge&logo=linux)
+![](https://img.shields.io/badge/-openSUSE%20Tumbleweed-yellowgreen?style=for-the-badge&logo=SUSE)
+![](https://img.shields.io/badge/-Rust-red?style=for-the-badge&logo=rust)
+![](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=cplusplus)
+![](https://img.shields.io/badge/-Godot%20Engine-grey?style=for-the-badge&logo=godotengine&logoColor=white)
+![](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code)
+![](https://img.shields.io/badge/-neovim-blue?style=for-the-badge&logo=neovim&logoColor=white)
 
 
 
