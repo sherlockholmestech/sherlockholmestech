@@ -20,15 +20,5 @@ Be prepared for profile spam!
 
 
 ## Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherlockholmestech&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sherlockholmestech&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sherlockholmestech&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sherlockholmestech&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sherlockholmestech&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sherlockholmestech&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
-
+![](https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
