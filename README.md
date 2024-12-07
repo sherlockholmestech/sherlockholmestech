@@ -28,4 +28,4 @@ Be prepared for profile spam!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherlockholmestech&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/sherlockholmestech/)
 
 ## Music
-[![Spotify](https://open.spotify.com/track/5C3AH2Pxm8r2wovLBFWHe7?si=4d1404b06c8d41c9)
+[![Spotify](https://open.spotify.com/track/5C3AH2Pxm8r2wovLBFWHe7?si=4d1404b06c8d41c9)]
