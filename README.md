@@ -26,6 +26,3 @@ Be prepared for profile spam!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherlockholmestech&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/sherlockholmestech/)
-
-## Music
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5C3AH2Pxm8r2wovLBFWHe7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
