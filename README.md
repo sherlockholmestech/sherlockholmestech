@@ -10,7 +10,6 @@ Be prepared for profile spam!
 ### Languages & Frameworks
 [![](https://img.shields.io/badge/-Rust-red?style=for-the-badge&logo=rust)](https://rust-lang.org/)
 [![](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=cplusplus)](https://en.cppreference.com/w/)
-[![](https://img.shields.io/badge/-Godot%20Engine-grey?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/en)
 
 
 ### Code Editors
